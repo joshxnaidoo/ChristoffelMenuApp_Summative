@@ -1,4 +1,4 @@
-# Christoffel’s Menu App — Part 2
+# Christoffel’s Menu App Summative 1 Portfolio of Evidence
 **Module:** MAST5112 — Mobile App Development  
 **Student:** Josh Jonathan Naidoo  
 
